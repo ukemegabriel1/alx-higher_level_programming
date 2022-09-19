@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print(f"Float: {number:.2f}\n")
+print(f"Float: {number:.2f}")
